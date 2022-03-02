@@ -6,6 +6,8 @@
 #include <format>
 #include <locale>
 #include <codecvt>
+#include <array>
+#include <unordered_map>
 
 namespace jit_hook::pdb
 {
